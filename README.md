@@ -7,8 +7,6 @@ Nesse curso você irá aprender as atividades básicas que um Engenheiro DevOps 
 ### Setup
 - [Criando uma conta no Azure DevOps](/README/Criando-uma-conta-no-Azure-DevOps.md)
 
-/README/Setup-%252D-Criando-uma-conta-no-Azure-DevOps.md
-
 ### Repositórios:
 	• Git básico
 	• Criação de repositório
